@@ -32,3 +32,7 @@
 
 此浏览器主页主要是拿来修改自用。
 
+## 感谢
+
+感谢原作者[KuroNagishiro](https://github.com/KuroNagishiro/kuro)
+
